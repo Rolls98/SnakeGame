@@ -159,4 +159,4 @@ function draw(){
 
 
 
-let game = setInterval(draw,100);
+let game = setInterval(draw,150);
